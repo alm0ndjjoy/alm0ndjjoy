@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @alm0ndjjoy
-- 👀 I’m interested in creating content
-- 🌱 I’m currently learning HTML, CSS & JavaScipt
-- 💞️ I’m looking to collaborate on all types of projects with new and different prespectives
-- 📫 How to reach me .. Twitter- @Alm0ndjjoy
+- 👋 Hi, I’m Joyce!
+- 👀 I’m interested in learning, creating& collabing on projects.
+- 🌱 I’m currently learning HTML, CSS & JavaScipt.
+- 💞️ I’m looking to learn, learn & learn! 
+- 📫 How to reach me ..
 
 <!---
 alm0ndjjoy/alm0ndjjoy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
